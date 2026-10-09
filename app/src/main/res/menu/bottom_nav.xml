@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_9" android:icon="@drawable/ic_book" android:title="Class 9" />
+    <item android:id="@+id/nav_10" android:icon="@drawable/ic_book" android:title="Class 10" />
+    <item android:id="@+id/nav_11" android:icon="@drawable/ic_book" android:title="Class 11" />
+    <item android:id="@+id/nav_12" android:icon="@drawable/ic_book" android:title="Class 12" />
+    <item android:id="@+id/nav_more" android:icon="@drawable/ic_more" android:title="More" />
+</menu>
